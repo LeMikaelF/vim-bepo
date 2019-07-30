@@ -49,8 +49,8 @@ conserver les mouvements naturels de vim.
     let g:bepo_permut_w = 0
 
     let g:bepo_permut_maj_numb = 0
-    let g:bepo_map_bepo_qwerty = 0
-    let g:bepo_map_bepo_azerty = 0
+    let g:bepo_map_qwerty = 0
+    let g:bepo_map_azerty = 0
     let g:bepo_color_nbsp = 0
     let g:bepo_disp_hidden = 0
 
